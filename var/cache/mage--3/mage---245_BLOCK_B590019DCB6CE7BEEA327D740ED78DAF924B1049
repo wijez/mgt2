@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1713354491;s:6:"expire";i:1713358091;s:4:"tags";s:57:"245_BLOCK_HTML,245_CAT_C,245_CAT_C_3,245_CAT_C_4,245_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://localhost/mgt2/laptop.html"  class="level-top" ><span>Laptop</span></a></li><li  class="level0 nav-2 category-item last level-top"><a href="http://localhost/mgt2/phone.html"  class="level-top" ><span>Phone</span></a></li>            </ul>
+</nav>

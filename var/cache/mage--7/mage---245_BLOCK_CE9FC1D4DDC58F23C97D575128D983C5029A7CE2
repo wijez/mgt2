@@ -1,0 +1,167 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1713354682;s:6:"expire";i:1713441082;s:4:"tags";s:69:"245_CAT_P,245_BLOCK_HTML,245_CAT_P_4,245_CAT_P_1,245_CAT_C_3,245_MAGE";}
+        <ol class="product-items widget-product-carousel">
+                            <li class="product-item">            <div class="product-item-info">
+                <a href="http://localhost/mgt2/admin/catalog/product/view/id/4/s/laptop-acer-swift-go-sfg14-71-74cp-nx-kpzsv-004/key/5b46e6715df94af8fa9e648f4ee8f37303211e761624959e6b5d867a6e99bb20/" class="product-item-photo">
+                    <span class="product-image-container product-image-container-4">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/mgt2/pub/media/catalog/product\cache\0aa654b77b5f574b9724a6c51a870777\//l/a/laptop4.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Laptop&#x20;Acer&#x20;Swift&#x20;Go&#x20;SFG14-71-74CP&#x20;NX.KPZSV.004"/></span>
+</span>
+<style>.product-image-container-4 {
+    width: 240px;
+}
+.product-image-container-4 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-4");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-4  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Laptop Acer Swift Go SFG14-71-74CP NX.KPZSV.004"
+                           href="http://localhost/mgt2/admin/catalog/product/view/id/4/s/laptop-acer-swift-go-sfg14-71-74cp-nx-kpzsv-004/key/5b46e6715df94af8fa9e648f4ee8f37303211e761624959e6b5d867a6e99bb20/"
+                           class="product-item-link">
+                            Laptop Acer Swift Go SFG14-71-74CP NX.KPZSV.004                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="4" data-price-box="product-id-4">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-4-widget-product-carousel"                data-price-amount="1300"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$1,300.00</span></span>
+        </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Laptop Acer Swift Go SFG14-71-74CP NX.KPZSV.004" action="http://localhost/mgt2/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2FkbWluL3BhZ2VidWlsZGVyL3N0YWdlL3ByZXZpZXcva2V5L2I0ODY5ZjhlNDEwNzI5YWU0MzVkMDY0OGU3NmFkNDM5MjI0OWUzNDk3ZWJmMWNlNzE5MDIxYWFlNTc4YWM0M2EvP2lzQWpheD10cnVl/product/4/" method="post">
+                                                <input type="hidden" name="product" value="4">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl0WjNReUwyRmtiV2x1TDNCaFoyVmlkV2xzWkdWeUwzTjBZV2RsTDNCeVpYWnBaWGN2YTJWNUwySTBPRFk1WmpobE5ERXdOekk1WVdVME16VmtNRFkwT0dVM05tRmtORE01TWpJME9XVXpORGszWldKbU1XTmxOekU1TURJeFlXRmxOVGM0WVdNME0yRXZQMmx6UVdwaGVEMTBjblZsL3Byb2R1Y3QvNC8~">
+                                                <input name="form_key" type="hidden" value="EFK0NWgKgB1AM2ey" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Laptop\u0020Acer\u0020Swift\u0020Go\u0020SFG14\u002D71\u002D74CP\u0020NX.KPZSV.004"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/localhost\/mgt2\/admin\/wishlist\/index\/add\/key\/c2850175fbe0686487726fc50b9a768e984b3ce80cd19fc02b592cb6a9ceee14\/","data":{"product":4,"uenc":"aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2FkbWluL3BhZ2VidWlsZGVyL3N0YWdlL3ByZXZpZXcva2V5L2I0ODY5ZjhlNDEwNzI5YWU0MzVkMDY0OGU3NmFkNDM5MjI0OWUzNDk3ZWJmMWNlNzE5MDIxYWFlNTc4YWM0M2EvP2lzQWpheD10cnVl"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/mgt2\/catalog\/product_compare\/add\/","data":{"product":"4","uenc":"aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2FkbWluL3BhZ2VidWlsZGVyL3N0YWdlL3ByZXZpZXcva2V5L2I0ODY5ZjhlNDEwNzI5YWU0MzVkMDY0OGU3NmFkNDM5MjI0OWUzNDk3ZWJmMWNlNzE5MDIxYWFlNTc4YWM0M2EvP2lzQWpheD10cnVl"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://localhost/mgt2/admin/catalog/product/view/id/1/s/laptop-hp-240-g10-i5-1335u-8gb-512gb-win11-8f134pa/key/5b46e6715df94af8fa9e648f4ee8f37303211e761624959e6b5d867a6e99bb20/" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/mgt2/pub/media/catalog/product\cache\0aa654b77b5f574b9724a6c51a870777\//l/a/laptop2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Laptop&#x20;Acer&#x20;Aspire&#x20;3&#x20;A314-36M-34AP&#x20;NX.KMRSV.001"/></span>
+</span>
+<style>.product-image-container-1 {
+    width: 240px;
+}
+.product-image-container-1 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Laptop Acer Aspire 3 A314-36M-34AP NX.KMRSV.001"
+                           href="http://localhost/mgt2/admin/catalog/product/view/id/1/s/laptop-hp-240-g10-i5-1335u-8gb-512gb-win11-8f134pa/key/5b46e6715df94af8fa9e648f4ee8f37303211e761624959e6b5d867a6e99bb20/"
+                           class="product-item-link">
+                            Laptop Acer Aspire 3 A314-36M-34AP NX.KMRSV.001                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1-widget-product-carousel"                data-price-amount="900"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$900.00</span></span>
+        </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Laptop Acer Aspire 3 A314-36M-34AP NX.KMRSV.001" action="http://localhost/mgt2/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2FkbWluL3BhZ2VidWlsZGVyL3N0YWdlL3ByZXZpZXcva2V5L2I0ODY5ZjhlNDEwNzI5YWU0MzVkMDY0OGU3NmFkNDM5MjI0OWUzNDk3ZWJmMWNlNzE5MDIxYWFlNTc4YWM0M2EvP2lzQWpheD10cnVl/product/1/" method="post">
+                                                <input type="hidden" name="product" value="1">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl0WjNReUwyRmtiV2x1TDNCaFoyVmlkV2xzWkdWeUwzTjBZV2RsTDNCeVpYWnBaWGN2YTJWNUwySTBPRFk1WmpobE5ERXdOekk1WVdVME16VmtNRFkwT0dVM05tRmtORE01TWpJME9XVXpORGszWldKbU1XTmxOekU1TURJeFlXRmxOVGM0WVdNME0yRXZQMmx6UVdwaGVEMTBjblZsL3Byb2R1Y3QvMS8~">
+                                                <input name="form_key" type="hidden" value="EFK0NWgKgB1AM2ey" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Laptop\u0020Acer\u0020Aspire\u00203\u0020A314\u002D36M\u002D34AP\u0020NX.KMRSV.001"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/localhost\/mgt2\/admin\/wishlist\/index\/add\/key\/c2850175fbe0686487726fc50b9a768e984b3ce80cd19fc02b592cb6a9ceee14\/","data":{"product":1,"uenc":"aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2FkbWluL3BhZ2VidWlsZGVyL3N0YWdlL3ByZXZpZXcva2V5L2I0ODY5ZjhlNDEwNzI5YWU0MzVkMDY0OGU3NmFkNDM5MjI0OWUzNDk3ZWJmMWNlNzE5MDIxYWFlNTc4YWM0M2EvP2lzQWpheD10cnVl"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/mgt2\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL2xvY2FsaG9zdC9tZ3QyL2FkbWluL3BhZ2VidWlsZGVyL3N0YWdlL3ByZXZpZXcva2V5L2I0ODY5ZjhlNDEwNzI5YWU0MzVkMDY0OGU3NmFkNDM5MjI0OWUzNDk3ZWJmMWNlNzE5MDIxYWFlNTc4YWM0M2EvP2lzQWpheD10cnVl"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+            </li>            </ol>
